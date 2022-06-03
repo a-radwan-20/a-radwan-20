@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [EatPrep](https://a-radwan-20.github.io/EatPrep/)
 
-- 🌱 I’m currently learning **React, Full stack technologies**
+- 🌱 I’m currently mastering **React, Full stack technologies**
 
 - 👨‍💻 All of my projects are available at [https://AhmedRadwan.dev/](https://AhmedRadwan.dev/)
 
