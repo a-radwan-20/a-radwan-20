@@ -2,7 +2,8 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
 <h1 align="center">Hey, Nice to see you</h1>
-<h3 align="center">I'm Ahmed Radwan, Front-end developer from  Egypt, living  and working in Ireland., I'm now building my way up to a Full stack technologies...</h3>
+
+<h3 align="center">Ahmed Radwan, Front-end developer. I'm from Egypt, living and working in Ireland., I'm now building my way up to a Full stack technologies...</h3>
 
 <p align="left"> <a href="https://twitter.com/_a_radwan_" target="blank"><img src="https://img.shields.io/twitter/follow/_a_radwan_?logo=twitter&style=for-the-badge" alt="_a_radwan_" /></a> </p>
 
