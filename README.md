@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences Get in touch .. asks for my latest CV
 
-<h3 align="left">Find me here:</h3>
+<h3 align="left">Follow me here:</h3>
 <p align="left">
 <a href="https://twitter.com/_a_radwan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_a_radwan_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmedradwanie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedradwanie" height="30" width="40" /></a>
