@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<a href="https://app.daily.dev/aradwan"><img src="https://api.daily.dev/devcards/4180a587d31c45ea847d0018cef4c738.png?r=gn4" width="400" alt="Ahmed Radwan's Dev Card"/></a>
 </p>
 <h1 align="center">Hey, Nice to see you</h1>
 
