@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **me@AhmedRadwan.dev**
 
-- 📄 Know about my experiences Get in touch .. asks for my latest CV
+- 📄 Know about my experiences Get in touch .. ask for my latest CV
 
 <h3 align="center">Follow me here:</h3>
 <p align="center">
