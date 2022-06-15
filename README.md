@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://twitter.com/_a_radwan_" target="blank"><img src="https://img.shields.io/twitter/follow/_a_radwan_?logo=twitter&style=for-the-badge" alt="_a_radwan_" /></a> </p>
 
-- 🔭 I’m currently working on [EatPrep](https://a-radwan-20.github.io/EatPrep/)
+- 🔭 I’m currently working on [EatPrep](https://a-radwan-20.github.io/EatPrep/) [![Netlify Status](https://api.netlify.com/api/v1/badges/0c4d0742-1558-4eef-aabb-728d25c1f566/deploy-status)](https://app.netlify.com/sites/eatprep/deploys)
 
 - 🌱 I’m currently mastering **React**
 
