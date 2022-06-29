@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://AhmedRadwan.dev/](https://AhmedRadwan.dev/)
 
-- 💬 Ask me about **JS, HTML, CSS, Express and Shopify**
+- 💬 Ask me about **JS, HTML, CSS, Bootstrap, Express and Shopify**
 
 - 📫 How to reach me **me@AhmedRadwan.dev**
 
-- 📄 More about my my experiences, get in touch, ask for my latest CV.
+- 📄 More about my experiences, get in touch, ask for my latest CV.
 
 <h3 align="center">Follow me here:</h3>
 <p align="center">
