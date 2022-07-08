@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hey, Nice to see you</h1>
 
-<h3 align="center">Ahmed Radwan, Front-end developer. I'm from Egypt, living and working in Ireland., I'm now building my way up to a Full stack technologies...</h3>
+<h3 align="center">Ahmed Radwan, Front-end developer. I'm living and working in Ireland., I'm now building my way up to a Full stack...</h3>
 
 <p align="center"> <a href="https://twitter.com/_a_radwan_" target="blank"><img src="https://img.shields.io/twitter/follow/_a_radwan_?logo=twitter&style=for-the-badge" alt="_a_radwan_" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://AhmedRadwan.dev/](https://AhmedRadwan.dev/)
 
-- 💬 Ask me about **JS, HTML, CSS, Bootstrap, Express and Shopify**
+- 💬 Ask me about **JS, HTML, CSS, Bootstrap, NodeJS, ExpressJS and Shopify**
 
 - 📫 How to reach me **me@AhmedRadwan.dev**
 
