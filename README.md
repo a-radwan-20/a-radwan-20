@@ -11,7 +11,11 @@
 
 - 🌱 I’m currently mastering **React**
 
-- 👨‍💻 All of my projects are available at [https://AhmedRadwan.dev/](https://AhmedRadwan.dev/)
+- 👨‍💻 My portfolio's projects are available at [https://AhmedRadwan.dev/](https://AhmedRadwan.dev/)
+
+- 📝 My domain's blog [@/](https://blog.AhmedRadwan.dev/)
+
+- 📝 My Tech blog @[Nerd Level Tech /](https://nerdleveltech.com/)
 
 - 💬 Ask me about **JS, HTML, CSS, Bootstrap, NodeJS, ExpressJS and Shopify**
 
