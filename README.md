@@ -7,15 +7,15 @@
 
 <p align="center"> <a href="https://twitter.com/_a_radwan_" target="blank"><img src="https://img.shields.io/twitter/follow/_a_radwan_?logo=twitter&style=for-the-badge" alt="_a_radwan_" /></a> </p>
 
-- 🔭 I’m currently working on [EatPrep](https://a-radwan-20.github.io/EatPrep/)
+- 🔭 I’m currently Freelance and blogging @ [Nerd Level Tech Blog](https://nerdleveltech.com/)
 
 - 🌱 I’m currently mastering **React**
 
-- 👨‍💻 My portfolio's projects are available at [https://AhmedRadwan.dev/](https://AhmedRadwan.dev/)
+- 👨‍💻 My portfolio's projects are available @ [AhmedRadwan.dev ](https://AhmedRadwan.dev/)
 
-- 📝 My domain's blog [@ AhmedRadwan/](https://blog.AhmedRadwan.dev/)
+- 📝 My domain's blog [@ AhmedRadwan ](https://blog.AhmedRadwan.dev/)
 
-- 📝 My Tech blog [@ Nerd Level Tech /](https://nerdleveltech.com/)
+- 📝 My tech blog [@ Nerd Level Tech ](https://nerdleveltech.com/)
 
 - 💬 Ask me about **JS, HTML, CSS, Bootstrap, NodeJS, ExpressJS and Shopify**
 
