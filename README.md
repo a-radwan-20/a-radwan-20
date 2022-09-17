@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently Freelance and blogging @ [Nerd Level Tech Blog](https://nerdleveltech.com/)
 
-- 🌱 I’m currently mastering **React**
-
 - 👨‍💻 My portfolio's projects are available @ [AhmedRadwan.dev ](https://AhmedRadwan.dev/)
 
 - 📝 My domain's blog [@ blog.AhmedRadwan.dev ](https://blog.AhmedRadwan.dev/)
