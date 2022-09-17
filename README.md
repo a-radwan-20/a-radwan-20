@@ -13,7 +13,7 @@
 
 - 👨‍💻 My portfolio's projects are available @ [AhmedRadwan.dev ](https://AhmedRadwan.dev/)
 
-- 📝 My domain's blog [@ AhmedRadwan ](https://blog.AhmedRadwan.dev/)
+- 📝 My domain's blog [@ blog.AhmedRadwan.dev ](https://blog.AhmedRadwan.dev/)
 
 - 📝 My tech blog [@ Nerd Level Tech ](https://nerdleveltech.com/)
 
