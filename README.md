@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://app.daily.dev/aradwan"><img src="https://github.com/a-radwan-20/a-radwan-20/blob/main/devcard.svg" width="400" alt="Ahmed Radwan's  Dev Card"/></a>  
-</p>
+
 <h1 align="center">Hey, Nice to see you</h1>
 
 <h3 align="center">Ahmed Radwan, Front-end developer. I'm living and working in Ireland., I'm now building my way up to a Full stack...</h3>
@@ -18,8 +16,6 @@
 - 💬 Ask me about **JS, HTML, CSS, Bootstrap, NodeJS, ExpressJS and Shopify**
 
 - 📫 How to reach me **me@AhmedRadwan.dev**
-
-- 📄 More about my experiences, get in touch, ask for my latest CV.
 
 <h3 align="center">Follow me here:</h3>
 <p align="center">
