@@ -5,10 +5,6 @@
 
 <p align="center"> <a href="https://twitter.com/_a_radwan_" target="blank"><img src="https://img.shields.io/twitter/follow/_a_radwan_?logo=twitter&style=for-the-badge" alt="_a_radwan_" /></a> </p>
 
-- 🔭 I’m currently Freelance and blogging @ [Nerd Level Tech Blog](https://nerdleveltech.com/)
-
-- 👨‍💻 My portfolio's projects are available @ [AhmedRadwan.dev ](https://AhmedRadwan.dev/)
-
 - 📝 My domain's blog [@ blog.AhmedRadwan.dev ](https://blog.AhmedRadwan.dev/)
 
 - 📝 My tech blog [@ Nerd Level Tech ](https://nerdleveltech.com/)
