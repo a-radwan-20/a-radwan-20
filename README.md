@@ -7,7 +7,7 @@
 
 - 📝 My Nerdo AI, Nerdo free tools and tech blog [@ Nerd Level Tech ](https://nerdleveltech.com/)
 
-- 💬 Ask me about **JS, HTML, CSS, Bootstrap, NodeJS, ExpressJS and Shopify**
+- 💬 Ask me or my Nerdo about **TECH**
 
 - 📫 How to reach me **hello@nerdleveltech.comv**
 
