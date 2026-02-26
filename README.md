@@ -9,7 +9,7 @@
 
 - 💬 Ask me or my Nerdo about **TECH**
 
-- 📫 How to reach me **hello@nerdleveltech.comv**
+- 📫 How to reach me **hello@nerdleveltech.com**
 
 <h3 align="center">Follow me here:</h3>
 <p align="center">
