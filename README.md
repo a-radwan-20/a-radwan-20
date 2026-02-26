@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://twitter.com/_a_radwan_" target="blank"><img src="https://img.shields.io/twitter/follow/_a_radwan_?logo=twitter&style=for-the-badge" alt="_a_radwan_" /></a> </p>
 
-- 📝 My Nerdo AI, Nerdo free tools and tech blog [@ Nerd Level Tech ](https://nerdleveltech.com/)
+- 📝 Nerdo AI, Nerdo Assistant, free courses, free tools and tech blog [@ Nerd Level Tech ](https://nerdleveltech.com/)
 
 - 💬 Ask me or my Nerdo about **TECH**
 
